@@ -39,4 +39,4 @@ def find_the_cheese(array)
  end 
 end
 
-find_the_cheese2(snacks, cheese_types)
+find_the_cheese(snacks)
